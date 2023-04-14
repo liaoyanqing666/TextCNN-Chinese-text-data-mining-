@@ -1,6 +1,8 @@
 # TextCNN-Chinese-text-data-mining-
 TextCNN, Chinese text data mining, 中文文本数据挖掘
 
+pytorch
+
 根据新闻标题和新闻关键字进行分类
 
 适用于初学者
